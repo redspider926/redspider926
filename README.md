@@ -88,7 +88,7 @@
 </code>](https://www.kernel.org/)
 
 ---
-![Github stats](https://github-readme-stats.vercel.app/api?username=redspider926&show_icons=true&theme=dark)
+![Github stats](https://github-readme-stats.vercel.app/api?username=redspider926&count_private=true&theme=tokyonight&include_all_commits=true&show_icons=true&theme=tokyonight)
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redspider926&layout=default&theme=radical)
 
