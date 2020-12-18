@@ -88,7 +88,7 @@
 </code>](https://www.kernel.org/)
 
 ---
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=redspider926&show_icons=true&theme=radical&include_all_commits=true)
+![Zhang Ming's github stats](https://github-readme-stats.vercel.app/api?username=redspider926&show_icons=true&theme=radical)
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redspider926&layout=default&theme=radical)
 
