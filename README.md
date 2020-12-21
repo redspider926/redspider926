@@ -1,6 +1,6 @@
 <h1 align="center"><b>Ming Zhang</b><br>Full Stack Developer - (Web, Mobile)
 
-<a target="blank" href="https://profile-counter.glitch.me/topninja/count.svg"><p align="center">❤ Visitor Counts ❤<br><br> <img src="https://profile-counter.glitch.me/KingSpider1225/count.svg" /></a>
+<a target="blank" href="https://profile-counter.glitch.me/topninja/count.svg"><p align="center">Visitor Counts<br><br> <img src="https://profile-counter.glitch.me/KingSpider1225/count.svg" /></a>
 
 ### I'm a Developer!
 
