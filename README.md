@@ -1,4 +1,4 @@
-<h1 align="center"><b>Ming Zhang</b><br>Full Stack Developer - (Web, Mobile)
+<h1 align="center"><b>Ming Zhang</b><br>React Native Master
 
 <a target="blank" href="https://profile-counter.glitch.me/topninja/count.svg"><p align="center">Visitor Counts<br><br> <img src="https://profile-counter.glitch.me/KingSpider1225/count.svg" /></a>
 
