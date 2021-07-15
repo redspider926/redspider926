@@ -1,4 +1,4 @@
-<h1 align="center"><b>Ming Zhang</b><br>Blockchain Specialist, Frontend Expert & React Native Master
+<h1 align="center"><b>Piao Hu</b><br>Blockchain Specialist, Frontend Expert & React Native Master
 
 <a target="blank" href="https://profile-counter.glitch.me/topninja/count.svg"><p align="center">Visitor Counts<br><br> <img src="https://profile-counter.glitch.me/KingSpider1225/count.svg" /></a>
 
@@ -13,7 +13,7 @@
 ### Connect with me:
 
 <img align="left" alt="Sabesan" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
-<img align="left" alt="Sabesan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a target="blank" href="https://www.linkedin.com/in/zhang-ming/"><img align="left" alt="Sabesan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <img align="left" alt="Sabesan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 <br>
 
