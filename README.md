@@ -1,14 +1,14 @@
-<h1 align="center"><b>Ming Zhang</b><br>React Native Master
+<h1 align="center"><b>Ming Zhang</b><br>Blockchain Specialist, Frontend Expert & React Native Master
 
 <a target="blank" href="https://profile-counter.glitch.me/topninja/count.svg"><p align="center">Visitor Counts<br><br> <img src="https://profile-counter.glitch.me/KingSpider1225/count.svg" /></a>
 
-### I'm a Developer!
+### I'm a master in Blockchain, Frontend and React Native development!
 
-- 🔭 I’m currently working on a my final year project!
-- 🌱 I’m currently learning Fullstack and Machine Learning
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play chess and listen music.
+- 🔭 I’m currently working on a blockchain dapp!
+- 🌱 I’m currently learning Blockchain core and advanced concepts
+- 👯 I’m looking to make an awesome contribution in blockchain projects.
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to play chess and listen to the music.
 
 ### Connect with me:
 
